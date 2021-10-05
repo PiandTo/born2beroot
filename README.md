@@ -9,6 +9,10 @@ AppArmor - это система управления доступом к фай
 https://losst.ru/nastrojka-apparmor-v-ubuntu-16-04
 	sudo aa-status
 
+SELinux (англ. Security-Enhanced Linux — Linux с улучшенной безопасностью) — реализация системы 
+принудительного контроля доступа, которая может работать параллельно с классической избирательной 
+системой контроля доступа.
+
 LVM
 Logical volume management provides a higher-level view of the disk storage on a computer system than the traditional view of disks and partitions. This gives the system administrator much more flexibility in allocating storage to applications and users.
 
@@ -122,7 +126,7 @@ https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
 	sudo visudo
 
 Shell script
-
+	https://habr.com/ru/company/host-tracker/blog/220413/
 
 Lighttpd/mariadb/php/wordpress
 	https://phoenixnap.com/kb/how-to-create-mariadb-user-grant-privileges
